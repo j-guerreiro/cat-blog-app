@@ -35,4 +35,4 @@ yarn-error.log*
 next-env.d.ts
 
 # contentful setup config.js
-/contentful/setup.js
+/contentful/cms-contentful-app/contentful/setup.js
