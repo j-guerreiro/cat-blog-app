@@ -13,6 +13,10 @@ section {
   border-radius: 5px;
 }
 
-section > p {
+.container article,
+h2,
+.flex {
+  background-color: aliceblue;
   border-radius: 5px;
+  padding: 5px;
 }
