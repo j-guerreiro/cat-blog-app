@@ -14,7 +14,7 @@ export default function Index({ preview, allPosts }) {
     <>
       <Layout preview={preview}>
         <Head>
-          <title>{`Cat Blog`}</title>
+          <title>{`The Learned Feline | Blog`}</title>
         </Head>
         <Container>
           <Intro />
