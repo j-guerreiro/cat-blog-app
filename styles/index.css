@@ -3,3 +3,16 @@
 @tailwind components;
 /* purgecss end ignore */
 @tailwind utilities;
+
+body {
+  background-image: url('./assets/blog-background-image.png');
+}
+
+section {
+  background-color: aliceblue;
+  border-radius: 5px;
+}
+
+section > p {
+  border-radius: 5px;
+}
